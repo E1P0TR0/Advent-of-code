@@ -28,7 +28,7 @@ for calories in calories_group:
 		calories_size += int(calories)
 
 print('Part 1:', _max)
-	
+
 # part 2
 calories_size = 0
 calories_list = []
